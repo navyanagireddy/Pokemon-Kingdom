@@ -59,7 +59,7 @@ function App() {
           ))}
         </div>
         <button className="load-more" onClick={() => getAllPokemons()}>
-          More Pokemons
+          Mor Pokemons
         </button>
       </div>
     </div>
